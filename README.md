@@ -1,2 +1,2 @@
-# -zpreactcli
+# zpreactcli
 react cli typescript scss
